@@ -1,0 +1,3 @@
+[submodule "odin-practice/css-exercises"]
+	path = odin-practice/css-exercises
+	url = https://git.raspi2server.cf/k0rrluna1/css-exercises.git
