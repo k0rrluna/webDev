@@ -1,0 +1,21 @@
+.odd {
+    background-color: #ffa7a7;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+
+}
+
+#second {
+    color:#0000ff;
+    font-size: 36px;
+
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#third {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: 700;
+}
