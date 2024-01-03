@@ -1,3 +1,18 @@
-* {
+/* * {
     border: 2px solid red;
-  }
+  } */
+
+div.a {
+  /* width: 5rem;
+  height: 5rem; */
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 16rem;
+  margin: 2rem;
+  border: 11rem solid red;
+}
+
+div.b {
+  background-color: aquamarine;
+}
